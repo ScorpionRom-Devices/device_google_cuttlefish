@@ -35,13 +35,13 @@ PRODUCT_MAKEFILES := \
 	aosp_cf_x86_tv:$(LOCAL_DIR)/vsoc_x86/tv/device.mk
 
 
-COMMON_LUNCH_CHOICES := \
-	aosp_cf_arm64_auto-userdebug \
-	aosp_cf_arm64_phone-userdebug \
-	aosp_cf_x86_64_pc-userdebug \
-	aosp_cf_x86_64_phone-userdebug \
-	aosp_cf_x86_64_foldable-userdebug \
-	aosp_cf_x86_auto-userdebug \
-	aosp_cf_x86_phone-userdebug \
-	aosp_cf_x86_tv-userdebug \
-	aosp_cf_x86_64_tv-userdebug
+#COMMON_LUNCH_CHOICES := \
+#	aosp_cf_arm64_auto-userdebug \
+#	aosp_cf_arm64_phone-userdebug \
+#	aosp_cf_x86_64_pc-userdebug \
+#	aosp_cf_x86_64_phone-userdebug \
+#	aosp_cf_x86_64_foldable-userdebug \
+#	aosp_cf_x86_auto-userdebug \
+#	aosp_cf_x86_phone-userdebug \
+#	aosp_cf_x86_tv-userdebug \
+#	aosp_cf_x86_64_tv-userdebug
